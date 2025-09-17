@@ -60,7 +60,7 @@ const Index = () => {
             </div>
             <div className="lg:text-right animate-scale-in">
               <img 
-                src="/img/71fed30a-e2a9-4da9-85d2-490b3dd4ce5c.jpg" 
+                src="/img/c9c34c86-3772-4b77-995d-07e9d828d032.jpg" 
                 alt="Офис МК БЮРО" 
                 className="rounded-lg shadow-2xl w-full h-[400px] object-cover"
               />
